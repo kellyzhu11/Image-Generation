@@ -4,12 +4,14 @@ This project implements DC-GAN for image generation.
 ## Usage
 ### Clone the repositories
  
- `git clone https://github.com/kellyzhu11/Image-Generation.git`
+ ```bash
+ $ git clone https://github.com/kellyzhu11/Image-Generation.git
+ ```
  
 ### Generate images
-`bash
+```bash
 $ python dcgan.py
-`
+```
 
 ## Results on LSUN Dataset
 Generated bedroom images
